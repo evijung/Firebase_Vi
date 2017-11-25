@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659788616163",
+    "firebase_url": "https://fir-vi-f937a.firebaseio.com",
+    "project_id": "fir-vi-f937a",
+    "storage_bucket": "fir-vi-f937a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659788616163:android:4c6555c908642738",
+        "android_client_info": {
+          "package_name": "com.hitachi_tstv.mist.it.firebase_vi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659788616163-4lg1q4t9pv4umpmvbq7ckso3nlvihc3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hitachi_tstv.mist.it.firebase_vi",
+            "certificate_hash": "f4aa90bbdd80d2cdaa50a6901eae97dcfdd3da6e"
+          }
+        },
+        {
+          "client_id": "659788616163-ij9fepsh4bf0tvabk90mlcv5hglt2mam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnyKWsPhHrEUOBYr9JgurxfMKu1knkWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659788616163-ij9fepsh4bf0tvabk90mlcv5hglt2mam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
