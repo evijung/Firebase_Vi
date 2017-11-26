@@ -26,6 +26,7 @@
                 android:layout_height="wrap_content" />
             <!--Email-->
             <EditText
+                android:id="@+id/edtEmail"
                 android:inputType="textEmailAddress"
                 android:hint="@string/email"
                 android:layout_width="match_parent"
@@ -44,6 +45,7 @@
                 android:layout_height="wrap_content" />
             <!--Email-->
             <EditText
+                android:id="@+id/edtPassword"
                 android:inputType="text"
                 android:hint="@string/password"
                 android:layout_width="match_parent"
@@ -52,6 +54,7 @@
         </LinearLayout>
         <!--Login-->
 <Button
+    android:id="@+id/btnLogin"
     android:text="Login"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
